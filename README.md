@@ -1,2 +1,0 @@
-# sbansal
-GitHub Pages
